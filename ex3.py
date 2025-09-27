@@ -40,3 +40,4 @@ ax4.set_title('График y = f(x2) при x1 = 0')
 
 plt.tight_layout()
 plt.show()
+
